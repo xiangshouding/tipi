@@ -9,14 +9,14 @@
     * [第四节 小结](book/chapt01/01-04-summary.markdown)
 
 - [第二章 用户代码的执行](book/chapt02/02-00-overview.markdown)
-    * [第一节 PHP生命周期](book/chapt02/02-01-php-life-cycle-and-zend-engine.markdown)
+    * [第一节o PHP生命周期](book/chapt02/02-01-php-life-cycle-and-zend-engine.markdown)
     * [第二节 从SAPI开始](book/chapt02/02-02-00-overview.markdown)
         + [Apache模块](book/chapt02/02-02-01-apache-php-module.markdown)
         + [嵌入式](book/chapt02/02-02-02-embedding-php.markdown)
         + [Fastcgi](book/chapt02/02-02-03-fastcgi.markdown)
     * [第三节 Zend引擎与脚本执行](book/chapt02/02-03-00-how-php-script-get-executed.markdown)
         + [词法分析和语法分析](book/chapt02/02-03-01-lex-and-yacc.markdown)
-        + (book/chapt02/02-03-02-opcode.markdown)[opcode]
+        + [opcode](book/chapt02/02-03-02-opcode.markdown)
         + [附：找到Opcode具体实现](book/chapt02/02-03-03-from-opcode-to-handler.markdown)
     * [第四节 小结](book/chapt02/02-04-summary.markdown)
 
