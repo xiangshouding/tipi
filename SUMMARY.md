@@ -16,7 +16,7 @@
         + [Fastcgi](book_md/chapt02/02-02-03-fastcgi.md)
     * [第三节 Zend引擎与脚本执行](book_md/chapt02/02-03-00-how-php-script-get-executed.md)
         + [词法分析和语法分析](book_md/chapt02/02-03-01-lex-and-yacc.md)
-        + (book_md/chapt02/02-03-02-opcode.md)[opcode]
+        + [opcode](book_md/chapt02/02-03-02-opcode.md)
         + [附：找到Opcode具体实现](book_md/chapt02/02-03-03-from-opcode-to-handler.md)
     * [第四节 小结](book_md/chapt02/02-04-summary.md)
 
