@@ -29,7 +29,7 @@ function main() {
     cArr.forEach(function (line) {
         var rLine = line.replace(/(?:\+|\*|-)\s\[([\s\S]+?)\]\[([\s\S]+?)\]/g, function (all, text, link) {
             if (all) {
-                return all.replace(link, createLink(c, link));
+                return all.replace('['+link+']', '(' + createLink(c, link) + ')');
             }
             return all;
         });
