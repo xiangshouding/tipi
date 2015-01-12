@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 *.swp
 *.swo
@@ -8,3 +9,6 @@
 build/chm/*.hh*
 build/chm/files/*
 web/tmp/*
+=======
+/_book/
+>>>>>>> 07bde6cd998e1fdb60c0e85326d9bacc1d8db014
